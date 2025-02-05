@@ -46,7 +46,7 @@ This project is a clone of the Amazon website, designed to replicate its layout 
 ## Screenshots
 
 ### Home Page
-![image](https://github.com/user-attachments/assets/a03112db-2a2d-4ead-8fc9-16d2d37d9923)
+![image](https://github.com/user-attachments/assets/66a7f79e-bb74-4abd-bb45-c656903a9e25)
 
 
 
@@ -55,7 +55,8 @@ This project is a clone of the Amazon website, designed to replicate its layout 
 ![image](https://github.com/user-attachments/assets/2745135a-1479-4380-83c6-a953d9504b62)
 
 ### Navigation Bar
-![image](https://github.com/user-attachments/assets/b5569a86-4817-40d8-9fd0-b259c9ff345e)
+![image](https://github.com/user-attachments/assets/a33010b7-9744-4fae-bfbb-2864b1377824)
+
 
 ### Footer
 ![image](https://github.com/user-attachments/assets/7d28e686-5255-43f1-b373-22cb549bc6aa)
