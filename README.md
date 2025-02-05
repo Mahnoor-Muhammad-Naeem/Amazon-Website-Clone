@@ -46,27 +46,31 @@ This project is a clone of the Amazon website, designed to replicate its layout 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![image](https://github.com/user-attachments/assets/a03112db-2a2d-4ead-8fc9-16d2d37d9923)
+
+
+
 
 ### Product Categories
-![Product Categories](screenshots/product_categories.png)
+![image](https://github.com/user-attachments/assets/2745135a-1479-4380-83c6-a953d9504b62)
 
 ### Navigation Bar
-![Navigation Bar](screenshots/navigation_bar.png)
+![image](https://github.com/user-attachments/assets/b5569a86-4817-40d8-9fd0-b259c9ff345e)
 
 ### Footer
-![Footer](screenshots/footer.png)
+![image](https://github.com/user-attachments/assets/7d28e686-5255-43f1-b373-22cb549bc6aa)
+
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/Mahnoor-Muhammad-Naeem/Amazon-Website-Clone.git
 ```
 
 ## Navigate to the project directory:
 ```bash
-cd amazon-clone
+cd Amazon-Websiite-Clone
 ```
 
 Open index.html in your web browser.
