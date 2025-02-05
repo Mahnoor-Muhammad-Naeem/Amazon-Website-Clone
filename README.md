@@ -71,7 +71,7 @@ git clone https://github.com/Mahnoor-Muhammad-Naeem/Amazon-Website-Clone.git
 
 ## Navigate to the project directory:
 ```bash
-cd Amazon-Websiite-Clone
+cd Amazon-Website-Clone
 ```
 
 Open index.html in your web browser.
